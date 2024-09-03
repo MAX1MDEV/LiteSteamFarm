@@ -9,7 +9,7 @@ def run_dollar_program():
     os.system("taskkill /im Dollar.exe")
 
 def run_idle_kitties_program():
-    os.startfile("steam://launch/3062030")
+    os.startfile(r"C:\Program Files (x86)\Steam\steamapps\common\Idle Kitties Online\IdleKittiesOnline.exe")
     time.sleep(600)  # ждем 10 минут
     os.system("taskkill /im IdleKittiesOnline-Win64-Shipping.exe")
 
