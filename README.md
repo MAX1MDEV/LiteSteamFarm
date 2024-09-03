@@ -11,7 +11,7 @@ This script automatically runs Dollar every 30 minutes and IdleKittiesOnline eve
 | Idle Kitties Online|
 
 ### Installation
-1. Install Python
+1. Install [Python](https://www.python.org/downloads/).
 2. Install the schedule library:
 ```pip install schedule```
 3. Run the script using the command: ```python main.py```
@@ -36,7 +36,7 @@ Press Win+Tab, then create a new desktop, in the first one run the script, and o
 | Idle Kitties Online|
 
 ### Установка
-1. Установите Python
+1. Установите [Python](https://www.python.org/downloads/).
 2. Установите библиотеку schedule:
 ```pip install schedule```
 3. Запустите скрипт используя команду: ```python main.py```
