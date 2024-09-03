@@ -8,13 +8,12 @@ This script automatically runs Dollar every 30 minutes and IdleKittiesOnline eve
 | Game               | 
 | :----------------- |
 | Dollar             |
-| :----------------- | 
 | Idle Kitties Online|
 ### Installation
 1. Install Python
 2. Install the schedule library:
 ```pip install schedule```
-3. Run the script using the command: ```pip install schedule```
+3. Run the script using the command: ```python main.py```
 
 ## Post your game names in the Issues (Feature request) section, I'll add them.
 
@@ -29,13 +28,12 @@ This script automatically runs Dollar every 30 minutes and IdleKittiesOnline eve
 | Game               | 
 | :----------------- |
 | Dollar             |
-| :----------------- | 
 | Idle Kitties Online|
 
 ### Установка
 1. Установите Python
 2. Установите библиотеку schedule:
 ```pip install schedule```
-3. Запустите скрипт используя команду: ```pip install schedule```
+3. Запустите скрипт используя команду: ```python main.py```
 
 ## Пишите свои названия игр в раздел Issues, добавлю.
